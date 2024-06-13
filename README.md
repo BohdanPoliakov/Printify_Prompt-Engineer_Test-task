@@ -13,4 +13,5 @@ As I mentioned, I was able to solve the task quite quickly, I decided to complic
 ---
 
 Thank you for reading my README file. I really hope that the task I have completed is correct, as I am excited to develop and improve my skills at Printify. 
+
 Ps. I want to say that unfortunately my key is no longer valid as it is exposed on GitHub. 
